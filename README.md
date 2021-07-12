@@ -4,4 +4,4 @@ Perfect completed functional requirements:
 - N bit histogram
 - the longest sequence of consecutive 1s in binary representation
 - search for patterns on bits
-- filtering list of files and directories
+- filtering lists of files and directories
